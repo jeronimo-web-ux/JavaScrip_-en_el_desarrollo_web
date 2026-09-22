@@ -1,0 +1,6 @@
+# Actividad en equipo de git
+JavaScrip_en_el_desarrollo_web
+# Integrantes
+-Juan jose montoya gallego
+-David escalante mayorga
+-Juan felipe arenas cartagena
