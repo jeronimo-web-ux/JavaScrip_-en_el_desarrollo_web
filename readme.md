@@ -5,3 +5,4 @@ JavaScrip_en_el_desarrollo_web
 -Juan jose montoya gallego
 -David escalante mayorga
 -Juan felipe arenas cartagena
+-Jeronimo orozco cifuentes
