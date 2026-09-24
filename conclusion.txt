@@ -1,0 +1,11 @@
+JavaScript es el lenguaje que le da vida a las paginas web, 
+permitiendo que respondan a las acciones del usuario en 
+tiempo real, como hacer clic en un boton o enviar un formulario.
+
+
+Un ejemplo cotidiano es un buscador que muestra sugerencias mientras 
+el usuario escribe, gracias al evento "input". como equipo,
+recomendamos siempre probar el codigo en distintos navegadores y
+aprender bien el funcionamiento del DOM antes de crear interacciones
+complejas, ya que es la base de casi todo lo que se hace con
+JavaScript en el navegador.
